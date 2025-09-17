@@ -1,11 +1,7 @@
 #  Hi 👋, I'm Shravani Poul
 **A passionate Software engineer developer from India**
 
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Python, Html
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** poulshravani2@gmail.com
 - 😄 **Pronouns:** Shravuu
 - ⚡ **Fun fact:** i am funny
