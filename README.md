@@ -1,20 +1,14 @@
-## Hi👋, I'm Shravani Poul
-n
-<!--
-**Poulshravani/Poulshravani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Hi 👋, I'm Shravani Poul
+**A passionate Software engineer developer from India**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Poulshravani2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Python, Html
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** poulshravani2@gmail.com
+- 😄 **Pronouns:** Shravuu
+- ⚡ **Fun fact:** i am funny
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shravuu_021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShravaniPoul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poulshravani2@gmail.com) 
 
