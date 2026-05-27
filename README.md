@@ -1,7 +1,7 @@
 #  Hi 👋, I'm Shravani Poul
 **A passionate Software engineer developer from India**
 
-- 🌱 **I’m currently learning:** Python, Html
+- 🌱 **I’m currently learning:** Python, AWS Cloud, Docker, Terraform
 - 📫 **How to reach me:** poulshravani2@gmail.com
 - https://github.com/Poulshravani
 - https://linkedin.com/in/shravanipoul
