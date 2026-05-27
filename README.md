@@ -3,6 +3,8 @@
 
 - 🌱 **I’m currently learning:** Python, Html
 - 📫 **How to reach me:** poulshravani2@gmail.com
+- https://github.com/Poulshravani
+- linkedin.com/in/shravanipoul
 - 😄 **Pronouns:** Shravuu
 - ⚡ **Fun fact:** i am funny
 ## 🌐 Socials:
