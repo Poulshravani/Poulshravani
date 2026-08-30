@@ -1,12 +1,10 @@
 #  Hi 👋, I'm Shravani Poul
-**A passionate Software engineer developer from India**
+**A passionate Cloud And DevOps from India**
 
 - 🌱 **I’m currently learning:** Python, AWS Cloud, Docker, Terraform
 - 📫 **How to reach me:** poulshravani2@gmail.com
 - https://github.com/Poulshravani
 - https://linkedin.com/in/shravanipoul
-- 😄 **Pronouns:** Shravuu
-- ⚡ **Fun fact:** i am funny
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shravuu_021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShravaniPoul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://gmail.compoulshravani2@gmail.com) 
 
