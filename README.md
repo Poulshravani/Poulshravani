@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shravani Poul
 
-## ☁️ AWS Cloud & DevOps Enthusiast | Linux | Terraform | Docker | CI/CD
+## ☁️ AWS Cloud & DevOps Engineer | Linux | Terraform | Docker | CI/CD
 
 🎓 B.Tech in Electronics & Telecommunication Engineering
 ☁️ Passionate about AWS Cloud, DevOps, Linux, Networking and Infrastructure Automation.
@@ -183,8 +183,8 @@ I'm looking for opportunities to start my career in **AWS Cloud / DevOps / Linux
 # 🤝 Connect With Me
 
 * 💻 GitHub: **https://github.com/Poulshravani**
-* 💼 LinkedIn: **Add your LinkedIn URL here**
-* 📧 Email: **Add your professional email here**
+* 💼 LinkedIn: **https://linkedin.com/in/shravanipoul**
+* 📧 Email: **poulshravani2@gmail.com**
 
 ---
 
