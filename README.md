@@ -1,24 +1,193 @@
-#  Hi 👋, I'm Shravani Poul
-**A passionate Cloud And DevOps from India**
+# 👋 Hi, I'm Shravani Poul
 
-- 🌱 **I’m currently learning:** Python, AWS Cloud, Docker, Terraform
-- 📫 **How to reach me:** poulshravani2@gmail.com
-- https://github.com/Poulshravani
-- https://linkedin.com/in/shravanipoul
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shravuu_021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShravaniPoul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://gmail.compoulshravani2@gmail.com) 
+## ☁️ AWS Cloud & DevOps Enthusiast | Linux | Terraform | Docker | CI/CD
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Poulshravani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Poulshravani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poulshravani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🎓 B.Tech in Electronics & Telecommunication Engineering
+☁️ Passionate about AWS Cloud, DevOps, Linux, Networking and Infrastructure Automation.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Poulshravani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy building cloud infrastructure, automating deployments, troubleshooting Linux systems, and learning modern DevOps tools.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Poulshravani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 B.Tech — Electronics & Telecommunication Engineering
+* ☁️ Cloud: **AWS**
+* 🐧 Operating Systems: **Linux / Ubuntu**
+* 🏗️ Infrastructure as Code: **Terraform**
+* 🐳 Containerization: **Docker**
+* 🔄 CI/CD: **Jenkins**
+* 🔧 Version Control: **Git & GitHub**
+* 🌐 Networking: **TCP/IP, DNS, HTTP/HTTPS, SSH, VPC, Subnetting**
+* 💻 Programming: **Python, Shell Scripting**
+* 🗄️ Database: **MySQL**
+* 📊 Monitoring: **Amazon CloudWatch**
+* 🔐 Security: **IAM, Security Groups, NACL**
+* 🎯 Currently focusing on **AWS Cloud & DevOps Engineering**
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ AWS Cloud
+
+`EC2` `S3` `IAM` `VPC` `EBS` `Lambda` `CloudWatch` `ELB` `Auto Scaling` `EventBridge`
+
+### 🚀 DevOps
+
+`Terraform` `Docker` `Jenkins` `CI/CD` `Git` `GitHub`
+
+### 🐧 Linux
+
+`Ubuntu` `Linux Commands` `Shell Scripting` `File Permissions` `Process Management` `Disk Management`
+
+### 🌐 Networking
+
+`TCP/IP` `DNS` `DHCP` `HTTP/HTTPS` `SSH` `NAT` `VPC` `Subnets` `Route Tables` `Security Groups` `NACL`
+
+### 💻 Programming & Database
+
+`Python` `Boto3` `Shell Scripting` `SQL` `MySQL`
+
+---
+
+# 💼 Internship
+
+## ☁️ Cloud & DevOps Intern
+
+**Exlearn Technologies LLP**
+
+* Hands-on experience with AWS Cloud and DevOps practices.
+* Worked with **EC2, IAM, VPC, S3 and CloudWatch**.
+* Practiced Linux system administration and networking.
+* Worked with **Terraform** for Infrastructure as Code.
+* Learned Docker and CI/CD concepts.
+* Performed AWS infrastructure configuration and troubleshooting.
+
+---
+
+# 🚀 Featured Projects
+
+## 1. 🔧 Resize EBS Volume on Ubuntu EC2 Without Downtime
+
+**Tech:** `AWS EC2` `EBS` `Ubuntu` `Linux`
+
+* Increased EBS volume capacity on an EC2 instance.
+* Extended the partition and filesystem without stopping the instance.
+* Used Linux commands to verify disk and filesystem utilization.
+* Practiced real-world Linux storage troubleshooting.
+
+---
+
+## 2. 🗄️ MySQL Logs on Separate AWS EBS Volume
+
+**Tech:** `AWS EC2` `EBS` `Linux` `MySQL`
+
+* Configured a separate EBS volume for MySQL logs.
+* Mounted and configured the additional storage on Ubuntu.
+* Separated application/database logs from the main filesystem.
+* Improved storage management and troubleshooting capabilities.
+
+---
+
+## 3. ⚡ Serverless EC2 Scheduler
+
+**Tech:** `AWS Lambda` `EventBridge` `EC2` `Python` `Boto3`
+
+* Automated EC2 instance scheduling using AWS Lambda.
+* Used EventBridge for scheduled execution.
+* Implemented automated stop scheduling for instances.
+* Helped reduce unnecessary EC2 usage during off-hours.
+
+---
+
+## 4. 🔐 AWS Lambda + DynamoDB CRUD
+
+**Tech:** `AWS Lambda` `DynamoDB` `Python` `Boto3`
+
+* Built CRUD operations using AWS Lambda and DynamoDB.
+* Used Python Boto3 to interact with AWS services.
+* Practiced serverless application development.
+* Implemented cloud-based database operations.
+
+---
+
+## 5. 🏗️ AWS Infrastructure with Terraform
+
+**Tech:** `Terraform` `AWS` `EC2` `VPC` `Security Groups`
+
+* Provisioned AWS infrastructure using Terraform.
+* Created EC2 instances, security groups and networking resources.
+* Practiced Terraform variables, outputs and resource dependencies.
+* Worked with Terraform state and remote backend concepts.
+
+---
+
+# 📚 What I'm Learning
+
+```text
+AWS Cloud
+├── EC2
+├── VPC
+├── IAM
+├── S3
+├── EBS
+├── Lambda
+├── CloudWatch
+├── Load Balancer
+└── Auto Scaling
+
+DevOps
+├── Terraform
+├── Docker
+├── Jenkins
+├── Git
+├── GitHub
+└── CI/CD
+
+Linux
+├── File Management
+├── Permissions
+├── Processes
+├── Disk Management
+├── Networking
+└── Shell Scripting
+
+Networking
+├── OSI Model
+├── TCP/IP
+├── DNS
+├── DHCP
+├── SSH
+├── NAT
+├── VPC
+└── Subnetting
+```
+
+---
+
+# 🎯 Career Goal
+
+I'm looking for opportunities to start my career in **AWS Cloud / DevOps / Linux / Technical Support Engineering**, where I can apply my practical knowledge, solve real-world infrastructure problems, and continuously grow my technical skills.
+
+---
+
+# 📊 GitHub Stats
+
+![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poulshravani\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poulshravani\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🤝 Connect With Me
+
+* 💻 GitHub: **https://github.com/Poulshravani**
+* 💼 LinkedIn: **Add your LinkedIn URL here**
+* 📧 Email: **Add your professional email here**
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+### ☁️ Keep Learning | Keep Building | Keep Automating 🚀
